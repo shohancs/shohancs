@@ -1,3 +1,5 @@
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 <h1>Hi 👋, I'm Shohanur Rahman Shohan</h1>
 <p>A Full Stack Software Engineer skilled in building modern web applications</p>
 
