@@ -1,7 +1,4 @@
-
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://github.com/user-attachments/assets/75d3da23-5faa-4a77-94a8-f0211e452d7d)
-
-
+![compress gif](https://github.com/user-attachments/assets/90aa0d95-0657-4a2e-91b8-f8db65ddb92b)
 <h1>Hi 👋, I'm Shohanur Rahman Shohan</h1>
 <p>A Full Stack Software Engineer skilled in building modern web applications</p>
 
