@@ -12,7 +12,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shohancs/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shohan.cs/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shohanurrahmanshohan.cs@gmail.com) 
-[![X](https://img.shields.io/badge/X_Profile-121212?logo=twitter&logoColor=white)](https://x.com/shohancs)
+[![X](https://img.shields.io/badge/X-121212?logo=twitter&logoColor=white)](https://x.com/shohancs)
 
 
 
