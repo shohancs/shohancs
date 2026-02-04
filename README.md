@@ -32,9 +32,11 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```php
 <?php
@@ -237,6 +239,79 @@ class Developer
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 PropVerify</h3>
+      <p align="center">
+        <a href="https://github.com/shohancs/PropVerify">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center"><strong>Real Estate SaaS</strong> with Owner Phone Reveal on Login, Live SSLCommerz Payment & Physical Field Verification Team.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌾 Local Farm Market</h3>
+      <p align="center">
+        <a href="https://github.com/shohancs/Local_Farm_Market">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center">A <strong>PHP & MySQL web app</strong> where local farmers sell dairy products, meat, sweets, and "whole cow" deals with admin verification.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📚 Library Management System</h3>
+      <p align="center">
+        <a href="https://github.com/shohancs/Library_Management_System">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+      <p align="center">A <strong>professional web app</strong> enabling users to browse, search, and reserve books online with a robust admin dashboard.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 Interactive Blogging Platform</h3>
+      <p align="center">
+        <a href="https://github.com/shohancs/Interactive_Blogging_Platform_with_Admin_Control">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center">A <strong>dynamic blog platform</strong> where admins manage posts and users share stories with modern web technologies.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/shohancs?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tools & Concepts
 
 <p align="center">
@@ -256,52 +331,19 @@ class Developer
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
+
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohancs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohancs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohancs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohancs&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shohancs&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-<!-- Trophies -->
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shohancs&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</p>
-
----
-
-<!-- Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
 
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
 
 <!-- Connect -->
 <h3 align="center">🤝 Let's Connect!</h3>
@@ -313,9 +355,4 @@ class Developer
   <a href="https://github.com/shohancs">
     <img src="https://img.shields.io/badge/-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow"/>
   </a>
-</p>
-
-<!-- Last Updated -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-February%202026-6366F1?style=flat-square" alt="Last Updated"/>
 </p>
