@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Building+web+applications+with+Laravel+%F0%9F%9A%80;Passionate+about+clean+code+%26+best+practices+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
