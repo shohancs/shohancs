@@ -32,9 +32,10 @@
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shohancs&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/shohancs?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/shohancs?label=Followers&style=for-the-badge&color=6366f1&cacheSeconds=60" />
 </p>
 
+---
 
 <!-- About Me Section -->
 
