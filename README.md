@@ -59,11 +59,15 @@ class Developer
 }
 ```
 
-- 🔭 Currently working on **Laravel Web Applications**
-- 🌱 Learning **REST API Development & Payment Integration**
-- 👯 Open to collaborate on **Laravel & PHP Projects**
-- 💬 Ask me about **Laravel, PHP, MySQL, SSLCommerz**
-- ⚡ Fun fact: **I love turning ideas into working code**
+💼 Aspiring Software Engineer passionate about building web applications with Laravel & PHP
+
+🛠️ Skilled in MySQL, REST API Development & Payment Gateway Integration (SSLCommerz)
+
+🧠 Focused on writing clean, functional & maintainable code
+
+🤝 Open to collaboration on PHP / Laravel projects
+
+🌍 Available for Remote, Freelance & Full-Time Opportunities
 
 <br clear="both"/>
 
