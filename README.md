@@ -153,7 +153,6 @@ class Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/SSLCommerz-2E7D32?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CoinGate_Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Third_Party_API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON_Handling-000000?style=for-the-badge&logo=json&logoColor=white"/>
@@ -166,7 +165,6 @@ class Developer
 | Integration | Description |
 |-------------|-------------|
 | **SSLCommerz** | Payment Gateway Integration for Bangladesh |
-| **CoinGate** | Crypto Payment API Concept & Integration |
 | **REST API** | Building & Consuming RESTful APIs |
 | **Third-Party API** | External Service Integration |
 | **Webhooks** | Real-time Event Handling |
