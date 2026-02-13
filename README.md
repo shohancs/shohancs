@@ -12,6 +12,9 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://shohancs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+</a>
   <a href="https://github.com/shohancs"  target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -32,7 +35,6 @@
   <img src="https://img.shields.io/github/followers/shohancs?label=Followers&style=for-the-badge&color=6366f1" alt="Followers"/>
 </p>
 
----
 
 <!-- About Me Section -->
 
@@ -71,7 +73,6 @@ class Developer
 
 <br clear="both"/>
 
----
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
@@ -146,7 +147,6 @@ class Developer
   <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=ajax&logoColor=white"/>
 </p>
 
----
 
 ## 💳 Payment & API Integration
 
@@ -172,7 +172,7 @@ class Developer
 
 </details>
 
----
+
 
 ## ⚙️ Backend Features Built
 
@@ -207,7 +207,7 @@ class Developer
 
 </details>
 
----
+
 
 ## 🗃️ Database Skills
 
@@ -232,7 +232,7 @@ class Developer
 
 </details>
 
----
+
 
 ## 🚀 Deployment & Hosting
 
@@ -244,7 +244,7 @@ class Developer
   <img src="https://img.shields.io/badge/Git_Deployment-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -317,7 +317,7 @@ class Developer
   </a>
 </p>
 
----
+
 
 ## 🛠️ Tools & Concepts
 
@@ -336,7 +336,6 @@ class Developer
   <img src="https://img.shields.io/badge/Sanctum/JWT-FF2D20?style=for-the-badge&logo=auth0&logoColor=white"/>
 </p>
 
----
 
 ## 📊 My GitHub Stats
 
