@@ -80,13 +80,12 @@
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
       <br>Tailwind
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" />
+      <br>jQuery
+    </td>
 
- <td align="center" width="96">
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="48" height="48" />
-  </a>
-  <br>Canva
-</td>
+ 
 
 
 
@@ -101,35 +100,15 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
       <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
-      <br>VS Code
     </td>    
      <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
-      <br>Figma
-    </td>       
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=js" alt="AJAX" width="48" height="48" />
   <br>AJAX
 </td>
-
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cs" alt="OOP" width="48" height="48" />
+  <br>OOP
+</td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=php" alt="Composer" width="48" height="48" />
   <br>Composer
@@ -145,20 +124,48 @@
   <br>REST API
 </td>
 
+    
+   
+  </tr>
+
+  <tr>
+   
+
+
+
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=laravel" alt="Authentication" width="48" height="48" />
   <br>Authentication
 </td>
+ <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+      <br>VS Code
+    </td>    
+          
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cs" alt="OOP" width="48" height="48" />
-  <br>OOP
-</td>
 
 <td align="center" width="96">
   <img src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" alt="cPanel" width="48" height="48" />
   <br>cPanel
 </td>
+<td align="center" width="96">
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="48" height="48" />
+  </a>
+  <br>Canva
+</td>
+<td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+      <br>Figma
+    </td>  
 
   </tr>
 </table>
