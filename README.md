@@ -104,6 +104,20 @@ class Developer
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
       <br>Tailwind
     </td>
+
+   <td align="center" width="96">
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" height="48"/>
+  <br>Canva
+</td>
+
+
+
+
+
+
+
+
+
   </tr>
   <tr>
     <td align="center" width="96">
@@ -129,7 +143,14 @@ class Developer
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
       <br>VS Code
-    </td>
+    </td>    
+     <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
+      <br>Figma
+    </td>   
+
+
+    
   </tr>
 </table>
 
