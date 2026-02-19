@@ -48,7 +48,6 @@
 - Strong experience with **RESTful APIs**, **MySQL** database optimization, **payment gateway integration**, and responsive UI/UX
 - Focused on clean architecture, **OOP** principles, and delivering real business value
 - Always open to exciting collaboration on **PHP / Laravel** projects!
-<br clear="both"/>
 
 
 <!-- Tech Stack -->
