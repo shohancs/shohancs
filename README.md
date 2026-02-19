@@ -45,7 +45,7 @@
 
 - **Full-Stack Software Engineer** specializing in **PHP**, **Laravel**, and modern web applications development
 - Passionate about creating **secure**, **scalable**, and **maintainable** web applications
-- Strong experience with **RESTful APIs**, **MySQL database optimization**, **payment gateway integration** (SSLCommerz), and responsive UI
+- Strong experience with **RESTful APIs**, **MySQL database optimization**, **payment gateway integration**, and responsive UI
 - Focused on clean architecture, OOP principles, and delivering practical business value
 - Always eager to collaborate on exciting **PHP / Laravel** projects!
 
