@@ -164,66 +164,6 @@
 </table>
 
 
-## ⚙️ Backend Features Built
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Authentication-4CAF50?style=for-the-badge&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Role_Management-9C27B0?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/File_Upload-2196F3?style=for-the-badge&logo=upload&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Email_System-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Form_Validation-FF5722?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Session_&_Cookie-795548?style=for-the-badge&logo=cookie&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pagination-607D8B?style=for-the-badge&logo=pages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Search_&_Filter-00BCD4?style=for-the-badge&logo=search&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRUD_Operations-8BC34A?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
-<details>
-<summary>🔍 View Details</summary>
-
-| Feature | Description |
-|---------|-------------|
-| **Authentication** | Complete Login/Register System |
-| **Role Management** | Admin/User Role Based Access Control |
-| **File Upload** | Image & Document Upload System |
-| **Email System** | Laravel Mail Integration |
-| **Form Validation** | Server + Client Side Validation |
-| **Session & Cookie** | User State Management |
-| **Pagination** | Efficient Data Pagination |
-| **Search & Filter** | Dynamic Search & Filter System |
-
-</details>
-
-
-
-## 🗃️ Database Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Migration-1976D2?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seeder-43A047?style=for-the-badge&logo=seedling&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Relationships-E91E63?style=for-the-badge&logo=link&logoColor=white"/>
-</p>
-
-<details>
-<summary>🔍 View Details</summary>
-
-| Skill | Description |
-|-------|-------------|
-| **Eloquent ORM** | Laravel's Active Record Implementation |
-| **Migrations** | Database Version Control |
-| **Seeders** | Database Seeding & Factories |
-| **Relationships** | One-to-Many, Many-to-Many |
-| **Query Builder** | Fluent Database Queries |
-
-</details>
-
-
-
 
 ## 📊 My GitHub Stats
 
