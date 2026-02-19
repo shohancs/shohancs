@@ -164,35 +164,6 @@
 </table>
 
 
-
-
-
-
-
-## 💳 Payment & API Integration
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SSLCommerz-2E7D32?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Third_Party_API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON_Handling-000000?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhook-6C757D?style=for-the-badge&logo=webhook&logoColor=white"/>
-</p>
-
-<details>
-<summary>🔍 View Details</summary>
-
-| Integration | Description |
-|-------------|-------------|
-| **SSLCommerz** | Payment Gateway Integration for Bangladesh |
-| **REST API** | Building & Consuming RESTful APIs |
-| **Third-Party API** | External Service Integration |
-| **Webhooks** | Real-time Event Handling |
-
-</details>
-
-
-
 ## ⚙️ Backend Features Built
 
 <p align="center">
