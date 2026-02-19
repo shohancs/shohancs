@@ -105,14 +105,12 @@ class Developer
       <br>Tailwind
     </td>
 
-   <td align="center" width="96">
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="48" height="48"/>
+ <td align="center" width="96">
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/canva.png" alt="Canva" width="48" height="48" />
+  </a>
   <br>Canva
 </td>
-
-
-
-
 
 
 
