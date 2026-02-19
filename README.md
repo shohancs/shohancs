@@ -174,16 +174,8 @@
 </p>
 
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
 <!-- Connect -->
 <h3 align="center">🤝 Let's Connect!</h3>
-<p align="center">
-  <em>I'm always interested in hearing about new opportunities and collaborating on Laravel projects!</em>
-</p>
 
 <p align="center">
   <a href="https://github.com/shohancs">
