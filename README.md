@@ -166,20 +166,7 @@
 
 
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-### 🚀 Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=ajax&logoColor=white"/>
-</p>
 
 
 ## 💳 Payment & API Integration
@@ -265,38 +252,6 @@
 </details>
 
 
-
-## 🚀 Deployment & Hosting
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shared_Hosting-FF9800?style=for-the-badge&logo=hostinger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain_Setup-0288D1?style=for-the-badge&logo=domain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSL_Certificate-4CAF50?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git_Deployment-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-
-
-
-
-
-## 🛠️ Tools & Concepts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=oop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC_Pattern-FF5722?style=for-the-badge&logo=mvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XSS_Security-E91E63?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanctum/JWT-FF2D20?style=for-the-badge&logo=auth0&logoColor=white"/>
-</p>
 
 
 ## 📊 My GitHub Stats
