@@ -43,15 +43,11 @@
 ## 🚀 About Me
 
 
-💼 Aspiring Software Engineer passionate about building web applications with Laravel & PHP
-
-🛠️ Skilled in MySQL, REST API Development & Payment Gateway Integration (SSLCommerz)
-
-🧠 Focused on writing clean, functional & maintainable code
-
-🤝 Open to collaboration on PHP / Laravel projects
-
-🌍 Available for Remote, Freelance & Full-Time Opportunities
+- **Full-Stack Software Engineer** specializing in **PHP**, **Laravel**, and modern web applications development
+- Passionate about creating **secure**, **scalable**, and **maintainable** web applications
+- Strong experience with **RESTful APIs**, **MySQL database optimization**, **payment gateway integration** (SSLCommerz), and responsive UI
+- Focused on clean architecture, OOP principles, and delivering practical business value
+- Always eager to collaborate on exciting **PHP / Laravel** projects!
 
 <br clear="both"/>
 
