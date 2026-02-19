@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/github/followers/shohancs?label=Followers&style=for-the-badge&color=6366f1&cacheSeconds=60" />
 </p>
 
----
 
 <!-- About Me Section -->
 
