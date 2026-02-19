@@ -121,12 +121,50 @@
      <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
       <br>Figma
-    </td>   
+    </td>       
+  </tr>
 
+  <tr>
+    <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" alt="AJAX" width="48" height="48" />
+  <br>AJAX
+</td>
 
-    
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" alt="Composer" width="48" height="48" />
+  <br>Composer
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="48" height="48" />
+  <br>NPM
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=laravel" alt="REST API" width="48" height="48" />
+  <br>REST API
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Authentication" width="48" height="48" />
+  <br>Authentication
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cs" alt="OOP" width="48" height="48" />
+  <br>OOP
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn.worldvectorlogo.com/logos/cpanel.svg" alt="cPanel" width="48" height="48" />
+  <br>cPanel
+</td>
+
   </tr>
 </table>
+
+
+
 
 ### 💻 Programming Languages
 <p align="center">
