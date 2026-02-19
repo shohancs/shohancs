@@ -98,7 +98,7 @@
   <br>AJAX
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cs" alt="OOP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php" alt="OOP" width="48" height="48" />
   <br>OOP
 </td>
 <td align="center" width="96">
