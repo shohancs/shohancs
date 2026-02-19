@@ -181,11 +181,3 @@
 </p>
 
 
-<!-- Connect -->
-<h3 align="center">🤝 Let's Connect!</h3>
-
-<p align="center">
-  <a href="https://github.com/shohancs">
-    <img src="https://img.shields.io/badge/-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow"/>
-  </a>
-</p>
