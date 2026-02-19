@@ -42,25 +42,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```php
-<?php
-
-class Developer
-{
-    public string $name = "Shohanur Rahman Shohan";
-    public string $role = "Laravel Developer";
-    public array $languages = ["PHP", "JavaScript"];
-    public array $frameworks = ["Laravel", "Bootstrap", "Tailwind CSS"];
-    public string $database = "MySQL";
-    
-    public function currentFocus(): string
-    {
-        return "Building scalable web applications with Laravel";
-    }
-}
-```
 
 💼 Aspiring Software Engineer passionate about building web applications with Laravel & PHP
 
